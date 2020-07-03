@@ -1,0 +1,27 @@
+.movie_list_wrapper {
+    display: flex;
+    max-width: 80%; 
+   margin: auto;
+   flex-wrap: wrap;
+
+   margin-top: 30px;
+   align-self: flex-start;
+
+   padding: 5px;
+  
+}
+
+.new-movie-card {
+    width: 300px;
+    height: 380px;
+    font-size: 130px;
+    border: 2px solid black;
+
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

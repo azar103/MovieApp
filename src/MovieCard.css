@@ -1,0 +1,42 @@
+.movie_wrapper {
+    width: 250px;
+    height: 431px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 5px;
+
+}
+.img_movie {
+  width: 100%;
+  height: 100%;
+}
+
+.myImg {
+    width: 100%;
+    height: 100%;
+}
+
+.title_movie {
+    width: 240px;
+    height: 70px;
+    padding: 5px;
+    text-align: center;
+    background-color:#FFD701;
+    opacity: 0.9px;
+    font-weight: 600;
+    color: #1D1D27;
+}
+
+
+.stars {
+  background-color: #000;
+  color: white;
+  padding: 3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  text-align: center;
+  opacity: 0.8;
+}
