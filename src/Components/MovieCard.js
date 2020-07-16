@@ -1,6 +1,6 @@
 import React from 'react'
 import  './MovieCard.css'
-import plus from './plus.png'
+import plus from '../plus.png'
 import Rating from './Rating';
 function MovieCard({url={plus}, name, rating}) {
    

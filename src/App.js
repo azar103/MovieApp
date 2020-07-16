@@ -1,8 +1,9 @@
 import React, {useState} from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from './Header';
-import MovieList from './MovieList';
+import Header from './Components/Header';
+import MovieList from './Components/MovieList';
+
 
 
 function App() {
